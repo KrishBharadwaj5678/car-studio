@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rolls-royceghost" size="6.000000 3.375000" />
+    <ImageTarget name="fordmustanggt" size="6.000000 4.502345" />
+    <ImageTarget name="mercedes-benz" size="6.000000 4.500000" />
+    <ImageTarget name="bmwm4" size="6.000000 4.000000" />
+    <ImageTarget name="rangeroverevoque" size="6.000000 4.000000" />
+    <ImageTarget name="volkswagenid6" size="6.000000 3.360000" />
+    <ImageTarget name="audirs4avant" size="6.000000 3.235294" />
+    <ImageTarget name="nissan370zroadster" size="6.000000 3.371238" />
+    <ImageTarget name="lotus-evora" size="6.000000 3.992727" />
+    <ImageTarget name="maruti800ac" size="6.000000 3.360000" />
+    <ImageTarget name="2022marutisuzukivitarabrezza" size="6.000000 3.942238" />
+    <ImageTarget name="ford" size="6.000000 4.494208" />
+  </Tracking>
+</QCARConfig>
