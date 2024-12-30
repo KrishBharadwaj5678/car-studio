@@ -2,7 +2,7 @@ Step into the driver’s seat of your creativity with Car Studio, where your dre
 
 🛠 Installation <br>
 
-📥 Access the repository and download all the images from Car Studio Images Folder <br>
+📥 Access the repository and download all the images from Car Studio Images Folder. <br>
 
 📲 Download the app by clicking on the provided link.  <br>
 
