@@ -4,7 +4,7 @@ Step into the driver’s seat of your creativity with Car Studio, where your dre
 
 📥 Access the repository and download all the images from Car Studio Images Folder <br>
 
-📲 Download the app by clicking on the provided mediafire link.  <br>
+📲 Download the app by clicking on the provided link.  <br>
 
 🎨 Open the app and get ready to customize your ride! 
 
